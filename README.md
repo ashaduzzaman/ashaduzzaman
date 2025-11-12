@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ashaduzzaman
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on any laravel and machine learning projects
+# Hi there 👋, I'm Md Ashaduzzaman  
+💻 Full-Stack Developer | Laravel · React · AWS · Docker  
 
-<!---
-ashaduzzaman/ashaduzzaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 4+ years experience building SaaS, CRM, and billing systems  
+🌱 Currently exploring serverless AWS & CI/CD automation  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashaduzzaman-ovi) | [Email](mailto:ashaduzzaman.nstu1994@gmail.com)
