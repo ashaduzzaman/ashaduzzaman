@@ -124,7 +124,7 @@ Noakhali Science and Technology University, Bangladesh
 
 - **Portfolio:** [mdashaduzzaman.xyz](https://mdashaduzzaman.xyz)  
 - **LinkedIn:** [Md Ashaduzzaman](https://www.linkedin.com/in/ashaduzzaman-ovi/)  
-- **Email:** [your-email@example.com](mailto:ashaduzzaman.nstu1994@gmail.com)
+- **Email:** [ashaduzzaman.nstu1994@gmail.com](mailto:ashaduzzaman.nstu1994@gmail.com)
 
 ---
 
